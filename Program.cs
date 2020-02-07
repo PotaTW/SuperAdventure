@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace SuperAdventure
 {
-    static class Program
+    static class Program  // DA FYRER VI OPP VEGGIS!
     {
         /// <summary>
         /// The main entry point for the application.
