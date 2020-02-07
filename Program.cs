@@ -9,7 +9,7 @@ namespace SuperAdventure
     static class Program  // DA FYRER VI OPP VEGGIS!
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. Yess!!!!
         /// </summary>
         [STAThread]
         static void Main()
